@@ -1,0 +1,340 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap
+File Name: C:\Downloaded Web Sites\solflare.com.co\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Inter:100,200,300,400,500,600,700,800,900&display=swap
+File Name: C:\Downloaded Web Sites\solflare.com.co\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Mono:100,200,300,400,500,600,700,100i,200i,300i,400i,500i,600i,700i&display=swap
+File Name: C:\Downloaded Web Sites\solflare.com.co\css-4
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZ9hjQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZ9hjQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZ9hjQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZ9hjQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZ9hjQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrk5ANW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrk5ANW6Cpw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAdW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAdW6Cpw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnANW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnANW6Cpw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlVANW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlVANW6Cpw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrm5B9W6Cpw.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrm5B9W6Cpw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB9W6Cpw.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB9W6Cpw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrnnANW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrnnANW6Cpw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vu_ROW9.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vu_ROW9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_7Pq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_7Pq_ROW9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_AP2_ROW9.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_AP2_ROW9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_gPq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_gPq_ROW9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2_ROW9.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2_ROW9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Xvq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\solflare.com.co\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Xvq_ROW9-1.ttf
+Content Type: font/ttf
+
+Uri: https://solflare.com.co/
+File Name: C:\Downloaded Web Sites\solflare.com.co\index-1.htm
+Content Type: text/html
+
+Uri: https://solflare.com.co/css/landing.3c6b1bbce568c1b68d7d.css
+File Name: C:\Downloaded Web Sites\solflare.com.co\css\landing.3c6b1bbce568c1b68d7d-1.css
+Content Type: text/css
+
+Uri: https://solflare.com.co/css/login.css
+File Name: C:\Downloaded Web Sites\solflare.com.co\css\login-1.css
+Content Type: text/css
+
+Uri: https://solflare.com.co/css/mob_nav.css
+File Name: C:\Downloaded Web Sites\solflare.com.co\css\mob_nav-1.css
+Content Type: text/css
+
+Uri: https://solflare.com.co/fonts/arrow-left-twitter.d5b0d362..svg
+File Name: C:\Downloaded Web Sites\solflare.com.co\fonts\arrow-left-twitter.d5b0d362.-1.svg
+Content Type: image/svg+xml
+
+Uri: https://solflare.com.co/fonts/arrow-right-twitter.e911d67a..svg
+File Name: C:\Downloaded Web Sites\solflare.com.co\fonts\arrow-right-twitter.e911d67a.-1.svg
+Content Type: image/svg+xml
+
+Uri: https://solflare.com.co/fonts/design-circles.05b6d0a5..svg
+File Name: C:\Downloaded Web Sites\solflare.com.co\fonts\design-circles.05b6d0a5.-1.svg
+Content Type: image/svg+xml
+
+Uri: https://solflare.com.co/fonts/logo-icon.26659b6d..svg
+File Name: C:\Downloaded Web Sites\solflare.com.co\fonts\logo-icon.26659b6d.-1.svg
+Content Type: image/svg+xml
+
+Uri: https://solflare.com.co/fonts/wallet.6cdd2cb0..svg
+File Name: C:\Downloaded Web Sites\solflare.com.co\fonts\wallet.6cdd2cb0.-1.svg
+Content Type: image/svg+xml
+
+Uri: https://solflare.com.co/images/8yGmbgc5_400x400.e4490792..jpeg
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\8yGmbgc5_400x400.e4490792.-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://solflare.com.co/images/activity.6283ca4d..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\activity.6283ca4d.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/anti-phishing.de8722d9..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\anti-phishing.de8722d9.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/blockrocking-power.f1e50977..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\blockrocking-power.f1e50977.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/coin-deco.25956bb4..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\coin-deco.25956bb4.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/connect-dapps.d651de62..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\connect-dapps.d651de62.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/decoration-two.cedb661f..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\decoration-two.cedb661f.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/decoration.18ca56b0..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\decoration.18ca56b0.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/design-gradient.83c17881..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\design-gradient.83c17881.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/favicon.ico
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://solflare.com.co/images/hero-bg.4d513525..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\hero-bg.4d513525.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/hero-decoration.f8de9a54..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\hero-decoration.f8de9a54.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/hero-desktop%402x.9886ed86..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\hero-desktop@2x.9886ed86.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/hero-desktop.b6d336a8..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\hero-desktop.b6d336a8.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/hero-image-extension%402x.74a2f217..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\hero-image-extension@2x.74a2f217.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/hero-image-extension.ad1def41..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\hero-image-extension.ad1def41.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/hero-image-phone%402x.537c1976..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\hero-image-phone@2x.537c1976.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/hero-image-phone.127ce1c3..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\hero-image-phone.127ce1c3.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/jE5pimT__400x400.2e040722..jpeg
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\jE5pimT__400x400.2e040722.-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://solflare.com.co/images/K-bPAFom_400x400.4ff30519..jpeg
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\K-bPAFom_400x400.4ff30519.-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://solflare.com.co/images/ledger-love.058befda..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\ledger-love.058befda.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/logo.26659b6d..svg
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\logo.26659b6d.-1.svg
+Content Type: image/svg+xml
+
+Uri: https://solflare.com.co/images/manage-nfts.345e9f8b..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\manage-nfts.345e9f8b.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/mobile-hero-1%402x.3055d2db..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\mobile-hero-1@2x.3055d2db.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/mobile-hero-1.24cfac98..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\mobile-hero-1.24cfac98.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/mobile-hero-2%402x.98924da8..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\mobile-hero-2@2x.98924da8.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/mobile-hero-2.3a3f5798..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\mobile-hero-2.3a3f5798.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/mobile-hero-3%402x.9bb0d907..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\mobile-hero-3@2x.9bb0d907.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/mobile-hero-3.54b33a6d..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\mobile-hero-3.54b33a6d.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/notifications.403a0ff3..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\notifications.403a0ff3.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/phone-andriod%402x.d9330688..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\phone-andriod@2x.d9330688.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/phone-andriod.940ad23b..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\phone-andriod.940ad23b.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/phone-iphone%402x.761b16ee..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\phone-iphone@2x.761b16ee.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/phone-iphone.583db473..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\phone-iphone.583db473.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/rpAheeyC_400x400.42d0d099..jpeg
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\rpAheeyC_400x400.42d0d099.-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://solflare.com.co/images/send-store.05d9c937..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\send-store.05d9c937.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/solflare.18da1228..svg
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\solflare.18da1228.-1.svg
+Content Type: image/svg+xml
+
+Uri: https://solflare.com.co/images/stake-and-earn.3ad3431d..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\stake-and-earn.3ad3431d.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/transaction-simulation.fc4ee070..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\transaction-simulation.fc4ee070.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/images/twitter-decoration.a0ad945e..png
+File Name: C:\Downloaded Web Sites\solflare.com.co\images\twitter-decoration.a0ad945e.-1.png
+Content Type: image/png
+
+Uri: https://solflare.com.co/js/landing.e3536319.js
+File Name: C:\Downloaded Web Sites\solflare.com.co\js\landing.e3536319-1.js
+Content Type: application/javascript
+
+Uri: https://solflare.com.co/js/login.js
+File Name: C:\Downloaded Web Sites\solflare.com.co\js\login-1.js
+Content Type: application/javascript
+
+Uri: https://solflare.com.co/js/nav_menu.js
+File Name: C:\Downloaded Web Sites\solflare.com.co\js\nav_menu-1.js
+Content Type: application/javascript
+
+Uri: https://solflare.com.co/js/timezone.js
+File Name: C:\Downloaded Web Sites\solflare.com.co\js\timezone-1.js
+Content Type: application/javascript
+
+Uri: https://solflare.com.co/singin
+File Name: C:\Downloaded Web Sites\solflare.com.co\singin-1.html
+Content Type: text/html
+
+Uri: https://solflare.com.co/singup
+File Name: C:\Downloaded Web Sites\solflare.com.co\singup-1.html
+Content Type: text/html
+
+Uri: https://solflare.com.co/token
+File Name: C:\Downloaded Web Sites\solflare.com.co\token-1.html
+Content Type: text/html
+
